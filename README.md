@@ -1,13 +1,14 @@
-🎬 IMDB Movies Data Analysis Project
+# 🎬 IMDB Movies Data Analysis Project
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on analyzing the IMDB Movies dataset to uncover the key factors that influence a movie’s success. In this analysis, movie success is primarily measured using **IMDB ratings**. The project applies data cleaning, exploratory data analysis (EDA), statistical techniques, and storytelling methods to generate actionable insights for movie producers, directors, investors, and entertainment analysts.
 
 The objective is to identify patterns and relationships between movie ratings and factors such as **genre, duration, language, directors, budget, and gross earnings**.
 
+---
 
-🎯 Problem Statement
+## 🎯 Problem Statement
 
 **What factors influence the success of a movie on IMDB?**
 
@@ -111,4 +112,3 @@ This project provides insights into:
 The analysis demonstrates how data analytics can be used in the entertainment industry to support strategic decision-making. By understanding the factors that contribute to highly rated and financially successful movies, stakeholders can make more informed production and investment decisions.
 
 This project highlights the importance of combining statistical analysis with storytelling to transform raw data into meaningful business insights.
-
